@@ -1,11 +1,12 @@
 {
-  "name": "gruvbox",
-  "displayName": "Gruvbox",
+  "name": "rickisgone-gruvbox",
+  "displayName": "Gruvbox RickIsGone",
   "description": "",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.93.0"
   },
+  "publisher": "RickIsGone",
   "repository": "https://github.com/RickIsGone/Gruvbox",
   "categories": [
     "Themes"
@@ -13,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Gruvbox",
+        "label": "Gruvbox RickIsGone",
         "uiTheme": "vs-dark",
         "path": "./themes/Gruvbox-color-theme.json"
       }
