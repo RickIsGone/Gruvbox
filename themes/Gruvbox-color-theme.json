@@ -423,7 +423,10 @@
 			}
 		},
 		{
-			"scope": "keyword.control",
+			"scope": [
+				"keyword.control.new.java",
+				"keyword.control.ternary.java"
+			],
 			"settings": {
 				"foreground": "#FE8019"
 			}
