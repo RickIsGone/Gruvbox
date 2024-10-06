@@ -614,6 +614,12 @@
 			}
 		},
 		{
+			"scope": "entity.other.attribute-name.html",
+			"settings": {
+				"foreground": "#83A598"
+			}
+		},
+		{
 			"scope": [
 				"text.html entity.name.tag",
 				"text.html punctuation.tag"
