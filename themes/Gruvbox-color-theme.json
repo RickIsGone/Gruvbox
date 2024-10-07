@@ -241,7 +241,7 @@
 				"punctuation.definition.directive"
 			],
 			"settings": {
-				"foreground": "#689D6A",
+				"foreground": "#8EC07C",
 			}
 		},
 		{
@@ -251,7 +251,7 @@
 				"punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#8EC07C",
+				"foreground": "#B8BB26",
 			}
 		},
 		{
@@ -369,7 +369,7 @@
 				"storage.modifier.package.java"
 			],
 			"settings": {
-				"foreground": "#8EC07C"
+				"foreground": "#B8BB26"
 			}
 		},
 		{
@@ -378,7 +378,7 @@
 				"keyword.other.package.java"
 			],
 			"settings": {
-				"foreground": "#689D6A"
+				"foreground": "#8EC07C"
 			}
 		},
 		{
