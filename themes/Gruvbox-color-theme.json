@@ -241,16 +241,17 @@
 				"punctuation.definition.directive"
 			],
 			"settings": {
-				"foreground": "#8EC07C",
+				"foreground": "#689D6A",
 			}
 		},
 		{
 			"scope": [
+				"string",
 				"meta.preprocessor.include",
 				"punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#98971A",
+				"foreground": "#8EC07C",
 			}
 		},
 		{
@@ -280,12 +281,6 @@
 			],
 			"settings": {
 				"foreground": "#FB4934",
-			}
-		},
-		{
-			"scope": "string",
-			"settings": {
-				"foreground": "#98971A"
 			}
 		},
 		{
@@ -383,7 +378,7 @@
 				"keyword.other.package.java"
 			],
 			"settings": {
-				"foreground": "#98971A"
+				"foreground": "#689D6A"
 			}
 		},
 		{
