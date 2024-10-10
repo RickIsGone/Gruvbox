@@ -328,7 +328,7 @@
 		{
 			"scope": "source.cmake",
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
@@ -346,19 +346,43 @@
 		{
 			"scope": "variable.source.cmake",
 			"settings": {
-				"foreground": "#83a598"
+				"foreground": "#83A598"
 			}
 		},
 		{
 			"scope": "entity.source.cmake",
 			"settings": {
-				"foreground": "#d3869b"
+				"foreground": "#D3869B"
+			}
+		},
+		{
+			"scope": "log.date",
+			"settings": {
+				"foreground": "#FE8019"
+			}
+		},
+		{
+			"scope": "log.info",
+			"settings": {
+				"foreground": "#83A598"
+			}
+		},
+		{
+			"scope": "log.warning",
+			"settings": {
+				"foreground": "#FABD2F"
 			}
 		},
 		{
 			"scope": "log.error",
 			"settings": {
-				"foreground": "#fb4934"
+				"foreground": "#FB4934"
+			}
+		},
+		{
+			"scope": "entity.name.tag.yaml",
+			"settings": {
+				"foreground": "#83A598"
 			}
 		},
 		// COPY-PASTE FROM OTHER THEME
@@ -634,3 +658,5 @@
 		}
 	]
 }
+// vsce package
+// vsce publish patch/minor/major
